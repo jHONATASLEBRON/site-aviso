@@ -1,0 +1,22 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #imagem {
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+  }
+  
+  #contador {
+    font-size: 24px;
+    color: #007BFF;
+    font-weight: bold;
+  }
+  

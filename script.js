@@ -1,0 +1,1 @@
+alert ("Esse Site é um lixo");
